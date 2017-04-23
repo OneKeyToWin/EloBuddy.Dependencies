@@ -13,7 +13,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "6aad9798a606878de0de26b1e9376cfd",
+      "MD5": "ebeb61c71fb7779f5cf225e3c2581387",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.Fedora.dll": {
@@ -123,6 +123,10 @@
     "Dependencies\\NLog.dll": {
       "MD5": "0aea243147e3483873bc1cddab71916d",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/NLog.dll"
+    },
+    "dependencies.json": {
+      "MD5": "5ef58db33a8db14eaaeeaf4f2f973ed2",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/dependencies.json"
     }
   },
   "Patches": {
